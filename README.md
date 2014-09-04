@@ -1,3 +1,7 @@
+---
+tags: tdd
+type: catch-up
+---
 #Catch Up!
 Missed the class on TDD. Not to worry, amigo. Here's what you need to know.
 
