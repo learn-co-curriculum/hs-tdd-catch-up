@@ -1,7 +1,7 @@
 #Catch Up!
 Missed the class on TDD. Not to worry, amigo. Here's what you need to know.
 
-<img src="http://imgs.xkcd.com/comics/suspicion.png">
+<img src="http://oversimplified.net/comics/2011-04-28.tdd_.png">
 
 In a nutshell, TDD  isa way that developers work to build high quality programs and prevent errors/bugs from developing in the program. Developers first write tests that check to make sure that their code is doing what it’s supposed to be doing.
 
