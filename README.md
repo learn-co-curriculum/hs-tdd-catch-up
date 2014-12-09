@@ -16,13 +16,13 @@ type: catch-up
 
 ##How It Works
 The typical test development cycle can be summed up with "red, green, refactor." **Red**: write a test and run it. It fails because you haven't written the actual program code to make it work! **Green**: Write your code, and make the test pass. **Refactor**: look at the code and see if you can make it any better.
-1. Write a test to describe a small feature you want to build. 
+1 Write a test to describe a small feature you want to build. 
 + When you run the test, it'll fail. (That's the red part.)
-2. Write just enough code to make the test pass.
+2 Write just enough code to make the test pass.
 + Now when you run the test, it should pass. (This is the green part.)
-3. Refactor
+3 Refactor
 + Make that code as succinct, clear, and DRY as possible. Refactor as necessary and retest.
-4. Rinse and repeat!
+4 Rinse and repeat!
 
 ##Rspec - A Ruby Testing Framework
 Tests are written using a program called Rspec (among others), and the tests can be found in files _ending_ in `_spec.rb`. For example, if you have a ruby file called `test.rb`, the tests would be written in a file called `test_spec.rb`.
