@@ -29,6 +29,7 @@ To run tests, go to the root of your project and type `rspec` - The tests will r
 
 Failures are good. Let me repeat: **failures are good**. They are part of step 1 in the TDD process, and they are breadcrumbs on the path to success. Read the failures carefully, change your code, and run `rspec` again until everything is passing.
 
+##Try It Out For Yourself
 Try working through the tests in [test-first ruby](http://testfirst.org/learn_ruby). It gets progressively harder, so don't get discouraged if you feel stuck!
 
 ##Note
