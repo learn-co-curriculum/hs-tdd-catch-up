@@ -25,7 +25,7 @@ The typical test development cycle can be summed up with "red, green, refactor."
 ##Rspec - A Ruby Testing Framework
 Tests are written using a program called Rspec (among others), and the tests can be found in files _ending_ in `_spec.rb`. For example, if you have a ruby file called `test.rb`, the tests would be written in a file called `test_spec.rb`.
 
-To run tests, go to the root of your project and type `rspec` - The tests will run and you'll see the failures that you have to work on.
+To run tests, first make sure you have rspec installed - type `gem install rspec` in your terminal. Then go to the root of your project and type `rspec` - The tests will run and you'll see the failures that you have to work on.
 
 Failures are good. Let me repeat: **failures are good**. They are part of step 1 in the TDD process, and they are breadcrumbs on the path to success. Read the failures carefully, change your code, and run `rspec` again until everything is passing.
 
