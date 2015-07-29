@@ -1,8 +1,4 @@
----
-tags: tdd, kids
-type: catch-up
 
----
 ##Test Driven Development in a Nutshell
 <img src="https://s3.amazonaws.com/after-school-assets/tdd.png">
 **Test Driven Development** is _a practice that developers use to build high quality programs and prevent errors from developing in their programs_. Before a single line of code gets written, developers write tests _first_. The number one reason this is an important practice is because tests minimize the amount of errors and bugs in the code. It seems counterintuitive to write tests first, but there are a few reasons why developers work this way:
