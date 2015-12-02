@@ -30,3 +30,5 @@ Try working through the tests in [test-first ruby](http://testfirst.org/learn_ru
 
 ##Note
 In this course, we will **not** be writing our own tests. Instead, the tests will be written for you, and you have to write the appropriate code to get them to pass. So, it's a truncated approach to TDD, but one that gets you acquainted with the process in general.
+
+<a href='https://learn.co/lessons/hs-tdd-catch-up' data-visibility='hidden'>View this lesson on Learn.co</a>
